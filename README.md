@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Sign Language Recognition Web Interface
 
 This project provides a web interface for sign language recognition, allowing users to convert sign language to text and speech using either uploaded images or live camera streaming.
